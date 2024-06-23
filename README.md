@@ -29,7 +29,7 @@ purposes.
 
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/Pratimsarkar02/Library-Management-System.git`
+1. Clone the repository: `git clone https://github.com/Pratimsarkar02/E-Lib.git`
 2. Navigate to the project directory: `cd Library-Management-System`
 3. Open `LibraryManagement.sln` in Visual Studio 2022
 4. Update the database connection string in `Web.config`
